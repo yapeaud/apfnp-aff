@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ApfnpController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,3 +17,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+// PAGE ACCUEIL
+Route::get('accueil', [ApfnpController::class, 'index'])->name('accueil');
+
+//PAGE 

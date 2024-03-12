@@ -1,4 +1,4 @@
-<div class="container" data-bs-target="#navbar-top" data-bs-spy="scroll" tabindex="0">
+{{-- <div class="container" data-bs-target="#navbar-top" data-bs-spy="scroll" tabindex="0">
     <section class="mb-9 mb-lg-10 mb-xxl-11 text-center text-lg-start mt-9" id="home">
         <div>
             <div class="row g-4 g-lg-6 g-xl-7 mb-6 mb-lg-7 mb-xl-10 align-items-center">
@@ -762,4 +762,4 @@
     </section>
 </div>
 <button class="btn scroll-to-top" data-scroll-top="data-scroll-top"><span
-        class="uil uil-angle-up text-white"></span></button>
+        class="uil uil-angle-up text-white"></span></button> --}}
