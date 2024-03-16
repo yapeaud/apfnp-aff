@@ -11,31 +11,31 @@
                     <div class="search-icon"> <span class="uil uil-search"></span></div>
                 </form> --}}
                 <ul class="navbar-nav mt-2 mt-lg-1 ms-lg-4 ms-xl-8 ms-2xl-9 gap-lg-x1" data-navbar-nav="data-navbar-nav">
-                    <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#home" title="home">Acceuil</a>
+                    <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#" title="acceuil">Acceuil</a>
                     </li>
                     <li class="nav-item dropdown"> 
                         <a class="nav-link nav-bar-item px-0 nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">A propos</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Qui sommes-nous ?</a>
-                            <a class="dropdown-item" href="#">Partenaires</a>
+                            <a class="dropdown-item" href="qui-sommes-nous">Qui sommes-nous ?</a>
+                            <a class="dropdown-item" href="partenaire">Partenaires</a>
                           </div>
                     </li>
-                    <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#products" title="catalog">Activités</a></li>
+                    <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="activite" title="activité">Activités</a></li>
                     <li class="nav-item dropdown"> 
-                        <a class="nav-link nav-bar-item px-0 nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" href="#review" title="reviews">Projet</a>
+                        <a class="nav-link nav-bar-item px-0 nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" href="#review" title="projet">Projet</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">En cours</a>
-                            <a class="dropdown-item" href="#">Exécutés</a>
+                            <a class="dropdown-item" href="encours">En cours</a>
+                            <a class="dropdown-item" href="execute">Exécutés</a>
                           </div>
                     </li>
-                    <li class="nav-item dropdown"> <a class="nav-link nav-bar-item px-0 nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" href="#support" title="support">Ressources</a>
+                    <li class="nav-item dropdown"> <a class="nav-link nav-bar-item px-0 nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" href="#support" title="ressources">Ressources</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Galeries</a>
-                            <a class="dropdown-item" href="#">Vidéos</a>
-                            <a class="dropdown-item" href="#">Textes de loi</a>
+                            <a class="dropdown-item" href="galerie">Galeries</a>
+                            <a class="dropdown-item" href="video">Vidéos</a>
+                            <a class="dropdown-item" href="texte-de-loi">Textes de loi</a>
                           </div>
                     </li>
-                    <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#support" title="support">Contact</a></li>
+                    <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="contact" title="contact">Contact</a></li>
                 </ul>
             </div>
         </div>

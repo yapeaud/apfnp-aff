@@ -4,7 +4,7 @@
 APFNP | Association des Propriétaires de Forêts Naturelles et Plantations
 @endsection
 {{-- CONTENT --}}
-@section('partials.content')
+@section('content')
 <div class="container" data-bs-target="#navbar-top" data-bs-spy="scroll" tabindex="0">
     <section class="mb-9 mb-lg-10 mb-xxl-11 text-center text-lg-start mt-9" id="home">
         <div>
