@@ -11,20 +11,29 @@ Ressource texte de loi
         <h4 class="mb-x1 fs-8 fs-md-7 fs-xxl-6 text-success fw-bold pt-6 text-capitalize">texte de loi </h4>
         <h1 class="fs-5 fs-lg-3 fs-xl-2 text-secondary text-capitalize fw-light mb-x1">ressource <span
             class="fw-bold">text </span> <br> de <span class="fw-bold">loi
-          </span></h1>
-          <div class="row mb-7 mb-lg-8 mb-xl-9 gap-3"> 
+          </span>
+        </h1>
+          <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3"> 
             <div class="col-12 col-lg">
-              <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5"><span class="fw-bold"> 
-            </span> <span class="fw-bold"></span></p>
+              <a href="texte-de-loi-accords-internationaux-ratifies"><button class="btn btn-gradient fs-8 mt-1 d-inline-flex"><span>Accords internationaux ratifiés</span><span class="uil uil-arrow-right"></span></button></a>
             </div>
             <div class="col-12 col-lg">
-                <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5"><span class="fw-bold"> 
-              </span> <span class="fw-bold"></span></p>
+              <a href="texte-de-loi-lois"><button class="btn btn-gradient fs-8 mt-1 d-inline-flex"><span>Lois</span><span class="uil uil-arrow-right"></span></button></a>
               </div>
-
-             
-          </div>
-          <button class="btn btn-gradient fs-8 mt-1 d-inline-flex"><span>Qui sommes-nous ?</span><span class="uil uil-arrow-right"></span></button>
+          </article>
+          <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3"> 
+            <div class="col-12 col-lg">
+              <a href="texte-de-loi-decrets"><button class="btn btn-gradient fs-8 mt-1 d-inline-flex"><span>Décrets</span><span class="uil uil-arrow-right"></span></button></a>
+            </div>
+            <div class="col-12 col-lg">
+              <a href="texte-de-loi-arretes"><button class="btn btn-gradient fs-8 mt-1 d-inline-flex"><span>Arrêtés</span><span class="uil uil-arrow-right"></span></button></a>
+              </div>
+          </article>
+          <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3"> 
+            <div class="col-12 col-lg">
+             <a href="texte-de-loi-decisions"><button class="btn btn-gradient fs-8 mt-1 d-inline-flex"><span>Décisions</span><span class="uil uil-arrow-right"></span></button></a>
+            </div>
+          </article>
       </section>
     </div>
 </div>

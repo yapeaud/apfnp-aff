@@ -19,7 +19,7 @@ APFNP | Association des Propriétaires de Forêts Naturelles et Plantations
                         <span class="slogan">Ensemble, agissons maintenant pour demain!</span>
                     </p>
                     
-                    <button class="btn btn-gradient fs-8 mt-1 d-inline-flex"><span>Qui sommes-nous ?</span><span class="uil uil-arrow-right"></span></button>
+                    <a href="qui-sommes-nous"><button class="btn btn-gradient fs-8 mt-1 d-inline-flex"><span>Qui sommes-nous ?</span><span class="uil uil-arrow-right"></span></button></a>
                 </div>
             </article>
             <article class="row g-4 g-lg-6 g-xl-7 align-items-center">

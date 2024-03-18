@@ -12,7 +12,7 @@ Ressource galerie
         <h1 class="fs-5 fs-lg-3 fs-xl-2 text-secondary text-capitalize fw-light mb-x1">ressource <span
             class="fw-bold"> </span> <span class="fw-bold">galerie
           </span></h1>
-          <div class="row mb-7 mb-lg-8 mb-xl-9 gap-3"> 
+          <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3"> 
             <div class="col-12 col-lg">
               <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5"><span class="fw-bold"> 
             </span> <span class="fw-bold"></span></p>
@@ -21,7 +21,7 @@ Ressource galerie
                 <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5"><span class="fw-bold"> 
               </span> <span class="fw-bold"></span></p>
               </div>
-          </div>
+          </article>
       </section>
     </div>
 </div>

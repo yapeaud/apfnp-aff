@@ -11,10 +11,10 @@
                     <div class="search-icon"> <span class="uil uil-search"></span></div>
                 </form> --}}
                 <ul class="navbar-nav mt-2 mt-lg-1 ms-lg-4 ms-xl-8 ms-2xl-9 gap-lg-x1" data-navbar-nav="data-navbar-nav">
-                    <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#" title="acceuil">Acceuil</a>
+                    <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#" title="accueil">Accueil</a>
                     </li>
                     <li class="nav-item dropdown"> 
-                        <a class="nav-link nav-bar-item px-0 nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">A propos</a>
+                        <a class="nav-link nav-bar-item px-0 nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" title="a propos">A propos</a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="qui-sommes-nous">Qui sommes-nous ?</a>
                             <a class="dropdown-item" href="partenaire">Partenaires</a>

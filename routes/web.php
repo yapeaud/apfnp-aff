@@ -45,5 +45,20 @@ Route::get('video', [ApfnpController::class, 'ressourceVideo'])->name('video');
 //PAGE TEXTE DE LOI
 Route::get('texte-de-loi', [ApfnpController::class, 'ressourceTexteDeLoi'])->name('texte-de-loi'); 
 
+//PAGE TEXTE DE LOI  "ACCORDS INTERNATIONAUX RATIFIÉS"
+Route::get('texte-de-loi-accords-internationaux-ratifies', [ApfnpController::class, 'accordsInternationauxRatifies'])->name('texte-de-loi-accords-internationaux-ratifies');
+
+//PAGE TEXTE DE LOI  "LOIS"
+Route::get('texte-de-loi-lois', [ApfnpController::class, 'lois'])->name('lois');
+
+//PAGE TEXTE DE LOI  "DÉCRETS"
+Route::get('texte-de-loi-decrets', [ApfnpController::class, 'decrets'])->name('decrets');
+
+//PAGE TEXTE DE LOI  "ARRÊTÉS"
+Route::get('texte-de-loi-arretes', [ApfnpController::class, 'arretes'])->name('arretes');
+
+//PAGE TEXTE DE LOI  "DÉCISIONS"
+Route::get('texte-de-loi-decisions', [ApfnpController::class, 'decisions'])->name('decisions');
+
 //PAGE CONTACT
 Route::get('contact', [ApfnpController::class, 'contact'])->name('contact'); 
