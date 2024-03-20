@@ -19,7 +19,7 @@ Qui sommes nous?
       </h1>
       <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3">
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6">APFNP, est une
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6 text-justify">APFNP, est une
             organisation communautaire de base, apolitique, sise à Afféry à environ 150 km 
             d’Abidjan la capitale économique. Elle a vu le jour le 17 juillet 2011 et est
             enregistrée sous le N° 454/P-AK du 22 novembre 2011. Au contact avec le monde
@@ -31,7 +31,7 @@ Qui sommes nous?
             instrument clé pour un environnement meilleur.</p>
         </div>
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5">APFNP, d’une
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5 text-justify">APFNP, d’une
             part, participe à la préservation et à la réhabilitation du couvert forestier et
             d’autre part, valorise les produits résiduaires organiques (PRO) en énergie de
             cuisson propre.</p>
@@ -39,7 +39,7 @@ Qui sommes nous?
       </article>
       <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3">
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6">Réalisation d’une enquête pour une étude
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6 text-justify">Réalisation d’une enquête pour une étude
             socioéconomique dans le cadre du projet REDD+ pour le compte de l’ONG Internationale NITIDAE. L’objectif de
             cette enquête était d’évaluer l’impact des activités du projet dans le temps et particulièrement de définir
             le niveau de vie actuel des populations périphériques des forêts classées de la Mabi et de Yaya. 400
@@ -48,7 +48,7 @@ Qui sommes nous?
             Projet REDD+ de la Mé également répartis dans les villages de Bassadzin, Yakassé-Comoé et Arounankro.</p>
         </div>
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6">Participation à la mise en œuvre du
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6 text-justify">Participation à la mise en œuvre du
             premier projet pilote de surveillance communautaire des forêts dans la Région de la Mé sous la supervision
             de l’Equipe MRV du Secrétariat Exécutif Permanent REDD+ dans les forêts du domaine rural de la
             Sous-préfecture d’Afféry. L’objectif du projet était de collecter les informations sur la forêt relatives
@@ -59,7 +59,7 @@ Qui sommes nous?
       </article>
       <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3">
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6">Participation à la Formation de 20 jeunes
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6 text-justify">Participation à la Formation de 20 jeunes
             (12 dans la région d’Aboisso et 8 dans la région de Divo) en qualité d’Expert sur le concept de suivi
             communautaire, d’observation indépendante des forêts pour le compte de l’association Initiative pour le
             Développement communautaire et la conservation des Forêts (IDEF) dans le cadre du projet «<span class="fw-bold">amélioration des
@@ -67,7 +67,7 @@ Qui sommes nous?
             par SOLIDARIDAD.</p>
         </div>
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6">Participation à la Formation sur le
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6 text-justify">Participation à la Formation sur le
             concept de suivi communautaire, d’observation indépendante des forêts et la notion d’écogarde dans les
             villages riverains dforêt classée de Séguéla (Ouahama – Mignoré) pour le compte de l’association Initiatives
             pour le Développement communautaire et la conservation des Forêts (IDEF) dans le cadre du projet
@@ -77,13 +77,13 @@ Qui sommes nous?
       </article>
       <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3">
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5">Conduite d’une mission autonome
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5 text-justify">Conduite d’une mission autonome
             d’observation indépendante en collaboration avec 2 riverains, effectuée dans la forêt classée de Besso avec
             l’appui technique et financier de la Wild Chimpazee Foundation (WCF) dont l’objet était de s’assurer de
             l’origine des billes exploitées.</p>
         </div>
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6">Conduite de deux missions autonomes
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6 text-justify">Conduite de deux missions autonomes
             d’observation indépendante dans les Périmètres d’Exploitation forestière (PEF) 14 260 et 15 400 dans les
             Sous-préfectures d’Afféry et d’Adzopé dans le cadre du projet «<span class="fw-bold">Appui au développement et à la mise en œuvre
             d’une stratégie d’Observation Indépendante dans les périmètres d’exploitation forestière en Côte d’Ivoire
@@ -95,7 +95,7 @@ Qui sommes nous?
 
       <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3">
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5">Production de 10 000 plants d'essences
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5 text-justify">Production de 10 000 plants d'essences
             forestières pour la réalisation d’un reboisement communautaire dans le cadre du projet REDD+ de la Mé</p>
         </div>
         <div class="col-12 col-lg">
@@ -106,12 +106,12 @@ Qui sommes nous?
       </article>
       <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3">
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5">Installation d’une unité de production de
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5 text-justify">Installation d’une unité de production de
             biocharbon à partir de cortex et tégument de cacao dans le cadre du projet REDD+ de la Mé avec l’appui
             financier de l’AFD.</p>
         </div>
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5">Amélioration de la qualité des briquettes
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5 text-justify">Amélioration de la qualité des briquettes
             de biocharbon produit par l’Entreprise Africa Business Group (AFRIBUG) et installation de deux unités de
             production de biocharbon à partir de balle de riz à Gagnoa dans le cadre du projet «<span class="fw-bold">Agriculture
             Intelligente face au climat</span>» pour le compte de la FAO.</p>
@@ -119,7 +119,7 @@ Qui sommes nous?
       </article>
       <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3">
         <div class="col-12 col-lg">
-          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5">Construction de 21 réacteurs de pyrolyse
+          <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5 text-justify">Construction de 21 réacteurs de pyrolyse
             pour le compte du Centre Mondial d’Agroforesterie (ICRAF) pour la production de biochar en vue de fertiliser
             les sols, dans le cadre du projet CIEFD financé par le FIRCA.</p>
         </div>

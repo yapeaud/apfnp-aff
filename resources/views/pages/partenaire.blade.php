@@ -13,7 +13,7 @@
             <div class="row mb-13 w-lg-75 mb-lg-5 mx-auto gy-2 gy-lg-5 h-100">
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
                 <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
-                    src="assets/img/team/team/6.png" alt="" />
+                    src="assets/img/partenaires/nitidae.jfif" alt="" />
                   <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
                       <span class="uil uil-instagram-alt"></span></a><a href="#!"> <span
                         class="uil uil-linkedin"></span></a></div>
@@ -23,7 +23,7 @@
               </article>
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
                 <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
-                    src="assets/img/team/team/5.png" alt="" />
+                    src="assets/img/partenaires/wcf.jpg" alt="" />
                   <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
                       <span class="uil uil-instagram-alt"></span></a><a href="#!"> <span
                         class="uil uil-linkedin"></span></a></div>
@@ -34,7 +34,7 @@
               </article>
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
                 <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
-                    src="assets/img/team/team/4.png" alt="" />
+                    src="assets/img/partenaires/ClientEarth.png" alt="" />
                   <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
                       <span class="uil uil-instagram-alt"></span></a><a href="#!"> <span
                         class="uil uil-linkedin"></span></a></div>
@@ -45,7 +45,7 @@
               </article>
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
                 <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
-                    src="assets/img/team/team/3.png" alt="" />
+                    src="assets/img/partenaires/redd.png" alt="" />
                   <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
                       <span class="uil uil-instagram-alt"></span></a><a href="#!"> <span
                         class="uil uil-linkedin"></span></a></div>
@@ -56,7 +56,7 @@
               </article>
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
                 <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
-                    src="assets/img/team/team/2.png" alt="" />
+                    src="assets/img/partenaires/apv-flegt.jpg" alt="" />
                   <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
                       <span class="uil uil-instagram-alt"></span></a><a href="#!">
                       <span class="uil uil-linkedin"></span></a></div>
@@ -67,18 +67,18 @@
               </article>
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
                 <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
-                    src="assets/img/team/team/1.png" alt="" />
+                    src="assets/img/partenaires/" alt="" />
                   <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
                       <span class="uil uil-instagram-alt"></span></a><a href="#!">
                       <span class="uil uil-linkedin"></span></a></div>
                 </div>
-                <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">OI-REN</h3>
-                <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">plateforme de la société civile</h5>
-                
+                <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">Réseau-OICI</h3>
+                <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">pour la loi et les communautés</h5>
               </article>
+
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
                 <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
-                    src="assets/img/team/team/2.png" alt="" />
+                    src="assets/img/partenaires/" alt="" />
                   <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
                       <span class="uil uil-instagram-alt"></span></a><a href="#!">
                       <span class="uil uil-linkedin"></span></a></div>
@@ -86,9 +86,10 @@
                 <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">DEVRS</h3>
                 <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">economie verte</h5>
               </article>
+
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
                 <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
-                    src="assets/img/team/team/2.png" alt="" />
+                    src="assets/img/partenaires/cga.jpg" alt="" />
                   <div class="social-icons"><a href="#!"> 
                     <span class="uil uil-facebook"></span></a><a href="https://web.facebook.com/SCOOPAGEACOOPCA">
                       <span class="uil uil-instagram-alt"></span></a><a href="#!">
@@ -98,9 +99,10 @@
                 <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">Coopérative Agricole Gédéon d’Afféry</h3>
                 <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3"></h5>
               </article>
+
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
                 <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
-                    src="assets/img/team/team/2.png" alt="" />
+                    src="assets/img/partenaires/logo-commune-affery.png" alt="" />
                   <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
                       <span class="uil uil-instagram-alt"></span></a><a href="#!">
                       <span class="uil uil-linkedin"></span></a></div>

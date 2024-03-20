@@ -29,8 +29,9 @@ APFNP | Association des Propriétaires de Forêts Naturelles et Plantations
                         However Popular or <br class="d-none d-md-block d-lg-none" /><span
                             class="fw-bold">rare plant </span><br
                             class="d-none d-xl-block d-xxl-none" /><br class="d-sm-none" />it is</h1> --}}
-                    <p class="fs-8 fs-md-11 fs-xxl-7 text-primary mb-5 mb-lg-6 mb-xl-7 fw-light">
-                        L'Association des Propriétaires de Forêts Naturelles et Plantations (APFNP) est née de l'engagement d'un groupe de jeunes passionnés par la préservation des ressources forestières.
+                    <p class="fs-8 fs-md-11 fs-xxl-7 text-primary mb-5 mb-lg-6 mb-xl-7 fw-light text-justify">
+                        L'Association des Propriétaires de Forêts Naturelles et Plantations (APFNP) est née de l'engagement d'un groupe de jeunes passionnés par la préservation des ressources forestières
+                        avec l'inclusion des propriétaires plantation d’Afféry. 
                     </p>
                     <button class="btn btn-gradient fs-8 d-inline-flex"><span>En savoir plus</span><span class="uil uil-arrow-right"></span></button>
                 </div>

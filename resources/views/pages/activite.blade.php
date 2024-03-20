@@ -14,9 +14,9 @@
               </span></h1>
               <div class="row mb-7 mb-lg-8 mb-xl-9 gap-3"> 
                 <div class="col-12 col-lg">
-                  <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6">Notre objectif est de contribuer à promouvoir la régénération du couvert forestier à travers le reboisement individuel et/ou collectif sur les surfaces herbeuses ou forêts dégradées des propriétaires forestiers afin de constituer un gisement de bois d’œuvre et bois d’énergie. Pour cela, l’APFNP-AFF s’est donnée pour mission de promouvoir la conservation de forêts naturelles et la création de plantations forestières dans toute la Côte d’Ivoire. Et à ce titre, l’APFNP-AFF :</p>
+                  <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6 text-justify">Notre objectif est de contribuer à promouvoir la régénération du couvert forestier à travers le reboisement individuel et/ou collectif sur les surfaces herbeuses ou forêts dégradées des propriétaires forestiers afin de constituer un gisement de bois d’œuvre et bois d’énergie. Pour cela, l’APFNP-AFF s’est donnée pour mission de promouvoir la conservation de forêts naturelles et la création de plantations forestières dans toute la Côte d’Ivoire. Et à ce titre, l’APFNP-AFF :</p>
                 <br>
-                  <ul class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6">
+                  <ul class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6 text-justify">
                     <li>Sensibilise les communautés rurales à soutenir le gouvernement dans sa politique de restauration du couvert forestier ivoirien, notamment le reboisement en milieu rural</li>
                     <li>Identifie les propriétaires forestiers et leurs plantations</li>
                     <li>Défend les intérêts des propriétaires forestiers auprès des pouvoirs publics et des autres acteurs du secteur</li>
@@ -32,7 +32,7 @@
                 <div class="col-12 col-lg">
                   <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5">Nos activités se détaillent en plusieurs volets, dont :</p>
                 <br>
-                  <ul class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6">
+                  <ul class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-6 text-justify">
                     <li>Sensibilisation à l'environnement</li>
                     <li>Création de plantations forestières</li>
                     <li>Education environnementale</li>
