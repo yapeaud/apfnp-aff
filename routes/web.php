@@ -19,7 +19,7 @@ Route::get('/', function () {
 });
 
 // PAGE ACCUEIL
-Route::get('accueil', [ApfnpController::class, 'index'])->name('accueil');
+// Route::get('accueil', [ApfnpController::class, 'index'])->name('accueil');
 
 //PAGE QUI SOMMES NOUS
 Route::get('qui-sommes-nous', [ApfnpController::class, 'quiSommesNous'])->name('qui-sommes-nous');
