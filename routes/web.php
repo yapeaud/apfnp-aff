@@ -62,3 +62,9 @@ Route::get('texte-de-loi-decisions', [ApfnpController::class, 'decisions'])->nam
 
 //PAGE CONTACT
 Route::get('contact', [ApfnpController::class, 'contact'])->name('contact'); 
+
+//ADMIN
+//Route::get('layout', [ApfnpController::class, 'layout'])->name('layout'); 
+Route::prefix('admin')->group(function () {
+    Route::get('/dashboard', [ApfnpController::class, 'dashboard'])->name('dashboard');
+});

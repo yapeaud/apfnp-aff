@@ -8,10 +8,7 @@ use function PHPUnit\Framework\returnSelf;
 
 class ApfnpController extends Controller
 {
-    public function index()
-    {
-        //
-    }
+ 
 
     public function quiSommesNous()
     {
@@ -81,5 +78,13 @@ class ApfnpController extends Controller
     public function contact()
     {
         return view('pages.contact');
+    }
+
+
+
+
+    public function dashboard()
+    {
+        return view('admin.dashboard');
     }
 }
