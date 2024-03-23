@@ -80,11 +80,14 @@ class ApfnpController extends Controller
         return view('pages.contact');
     }
 
-
-
-
     public function dashboard()
     {
         return view('admin.dashboard');
     }
+
+    public function enCours()
+    {
+        return view('admin.encours');
+    }
+    
 }

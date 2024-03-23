@@ -64,7 +64,16 @@ Route::get('texte-de-loi-decisions', [ApfnpController::class, 'decisions'])->nam
 Route::get('contact', [ApfnpController::class, 'contact'])->name('contact'); 
 
 //ADMIN
-//Route::get('layout', [ApfnpController::class, 'layout'])->name('layout'); 
 Route::prefix('admin')->group(function () {
     Route::get('/dashboard', [ApfnpController::class, 'dashboard'])->name('dashboard');
+    Route::get('/encours', [ApfnpController::class,'enCours'])->name('encours');
+    Route::get('/executes', [ApfnpController::class,'executes'])->name('executes');
+    Route::get('/galerie', [ApfnpController::class, 'galerie'])->name('galerie');
+    Route::get('/video', [ApfnpController::class, 'video'])->name('video');
+    Route::get('/accords-internationaux-ratifie', [ApfnpController::class, 'accordsInternationauxRatifie'])->name('accords-internationaux-ratifie');
+    Route::get('/loi', [ApfnpController::class, 'loi'])->name('loi');
+    Route::get('/decret', [ApfnpController::class, 'decret'])->name('decret');
+    Route::get('/arrete', [ApfnpController::class, 'arrete'])->name('arrete');
+    Route::get('/decision', [ApfnpController::class, 'decision'])->name('decision');
+
 });
