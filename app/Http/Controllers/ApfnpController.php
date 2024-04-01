@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+use Illuminate\Support\Facades\Auth;
 use function PHPUnit\Framework\returnSelf;
 
 class ApfnpController extends Controller
@@ -90,4 +91,23 @@ class ApfnpController extends Controller
         return view('admin.encours');
     }
     
+    public function showLoginForm()
+    {
+        return view('auth.login');
+    }
+
+    
+    public function login(Request $request)
+    {
+        $credentials = $request->only('email', 'password');
+
+        if (Auth::attempt($credentials)) {
+            // Authentification réussie
+            return redirect()->intended('/');
+        }
+
+        // Authentification échouée
+        return back()->withErrors(['email' => 'Identifiants incorrects']);
+    }
 }
+
