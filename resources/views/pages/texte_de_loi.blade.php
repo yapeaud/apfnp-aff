@@ -8,9 +8,9 @@ Ressource texte de loi
 <div class="bg-white p-1 p-lg-2">
     <div class="container">
       <section class="mb-9 mb-lg-10 mb-xxl-11 text-center text-lg-start" id="">
-        <h4 class="mb-x1 fs-8 fs-md-7 fs-xxl-6 text-success fw-bold pt-6 text-capitalize">texte de loi </h4>
+        <h4 class="mb-x1 fs-8 fs-md-7 fs-xxl-6 text-success fw-bold pt-6 text-capitalize">lois et textes réglementaires </h4>
         <h1 class="fs-5 fs-lg-3 fs-xl-2 text-secondary text-capitalize fw-light mb-x1">ressource <span
-            class="fw-bold">text </span> <br> de <span class="fw-bold">loi
+            class="fw-bold">loi </span> <br> et <span class="fw-bold">texte
           </span>
         </h1>
           <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3"> 

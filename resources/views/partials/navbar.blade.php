@@ -32,7 +32,8 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="galerie">Galeries</a>
                             <a class="dropdown-item" href="video">Vidéos</a>
-                            <a class="dropdown-item" href="texte-de-loi">Textes de loi</a>
+                            <a class="dropdown-item" href="texte-de-loi">Lois et textes réglementaires</a>
+                            <a class="dropdown-item" href="publication">Publication</a>
                           </div>
                     </li>
                     <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="contact" title="contact">Contact</a></li>

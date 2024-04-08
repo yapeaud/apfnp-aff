@@ -25,7 +25,7 @@
                     <div class="col-12 col-lg">
                         <p class="text-black fs-10 fs-md-9 fs-xxl-8 lh-xl mb-0 line-clamp-5 mt-5">
                             <span class="fw-bold">Adresse :</span> 09 BP 1849 Abidjan 09<br>
-                            <span class="fw-bold">Téléphones :</span> (225) 01 01 10 02 98 / (225) 07 08 62 62 49<br>
+                            <span class="fw-bold">Téléphones :</span> (225) 01 01 10 02 98 / (225) 07 57 81 08 28<br>
                             <span class="fw-bold">Courriel :</span> info@apfnp.org<br>
                             <span class="fw-bold">Site web :</span> <a href="http://www.apfnp.org"
                                 class="text-secondary">www.apfnp.org</a><br>

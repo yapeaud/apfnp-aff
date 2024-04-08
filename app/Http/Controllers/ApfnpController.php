@@ -51,6 +51,11 @@ class ApfnpController extends Controller
         return view('pages.texte_de_loi');
     }
 
+    public function publication()
+    {
+        return view('pages.publication');
+    }
+
     public function accordsInternationauxRatifies()
     {
         return view('pages.accords-internationaux-ratifies');

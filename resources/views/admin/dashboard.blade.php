@@ -12,5 +12,4 @@
                 <p>.</p>
             </article>
         </section>
-    </main>
-@endsection
+    </main>ph

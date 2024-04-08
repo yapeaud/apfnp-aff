@@ -45,6 +45,9 @@ Route::get('video', [ApfnpController::class, 'ressourceVideo'])->name('video');
 //PAGE TEXTE DE LOI
 Route::get('texte-de-loi', [ApfnpController::class, 'ressourceTexteDeLoi'])->name('texte-de-loi'); 
 
+//PAGE PUBLICATION
+Route::get('publication', [ApfnpController::class, 'publication'])->name('publication');
+
 //PAGE TEXTE DE LOI  "ACCORDS INTERNATIONAUX RATIFIÉS"
 Route::get('texte-de-loi-accords-internationaux-ratifies', [ApfnpController::class, 'accordsInternationauxRatifies'])->name('texte-de-loi-accords-internationaux-ratifies');
 

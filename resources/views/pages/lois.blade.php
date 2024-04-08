@@ -1,7 +1,7 @@
 @extends('base')
 
 @section('title')
-Lois
+Lois et textes réglementaires
 @endsection
 
 @section('content')
