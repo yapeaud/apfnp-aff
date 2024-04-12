@@ -9,7 +9,8 @@
     <main class="container mt-5">
         <section>
             <article class="mt-4">
-                <p>.</p>
+                <p>...</p>
             </article>
         </section>
-    </main>ph
+    </main>
+    @endsection

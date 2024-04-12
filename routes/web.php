@@ -1,7 +1,8 @@
 <?php
 
-use App\Http\Controllers\ApfnpController;
+use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ApfnpController;
 
 /*
 |--------------------------------------------------------------------------
@@ -70,21 +71,28 @@ Route::get('contact', [ApfnpController::class, 'contact'])->name('contact');
 
 Route::middleware(['auth'])->group(function () {
 
-    // Ensemble des routes
-    Route::prefix('admin')->group(function () {
+  
+    
+    });
+      // Ensemble des routes
+      Route::prefix('admin')->group(function () {
         Route::get('/login', [ApfnpController::class, 'showLoginForm'])->name('login');
-        Route::post('/login', [ApfnpController::class, 'login']);
+        Route::post('/login', [ApfnpController::class, 'login'])->name('traitementConnexion');
         Route::get('/dashboard', [ApfnpController::class, 'dashboard'])->name('dashboard');
         Route::get('/encours', [ApfnpController::class,'enCours'])->name('encours');
         Route::get('/executes', [ApfnpController::class,'executes'])->name('executes');
-        Route::get('/galerie', [ApfnpController::class, 'galerie'])->name('galerie');
-        Route::get('/video', [ApfnpController::class, 'video'])->name('video');
+        Route::get('/galeries', [ApfnpController::class, 'galeries'])->name('galeries');
+        Route::get('/videos', [ApfnpController::class, 'videos'])->name('videos');
         Route::get('/accords-internationaux-ratifie', [ApfnpController::class, 'accordsInternationauxRatifie'])->name('accords-internationaux-ratifie');
         Route::get('/loi', [ApfnpController::class, 'loi'])->name('loi');
         Route::get('/decret', [ApfnpController::class, 'decret'])->name('decret');
         Route::get('/arrete', [ApfnpController::class, 'arrete'])->name('arrete');
         Route::get('/decision', [ApfnpController::class, 'decision'])->name('decision');
+        
     
     });
-    
-    });
+
+
+    Route::get('generate-password', function () {
+     return Hash::make('123456');
+   });

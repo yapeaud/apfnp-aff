@@ -1,4 +1,4 @@
-@extends('admin.dashboard.layout')
+ @extends('admin.dashboard.conn')
 
 @section('title')
 Connexion

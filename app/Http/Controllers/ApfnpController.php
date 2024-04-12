@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Http\RedirectResponse;
 use function PHPUnit\Framework\returnSelf;
 
 class ApfnpController extends Controller
@@ -98,15 +99,20 @@ class ApfnpController extends Controller
     
     public function showLoginForm()
     {
-        return view('auth.login');
+        return view('admin.auth.login');
     }
 
     
-    public function login(Request $request)
+    public function login(Request $request): RedirectResponse
     {
-        $credentials = $request->only('email', 'password');
-
-        if (Auth::attempt($credentials)) {
+        //$credentials = $request->only('email', 'mdp');
+       //dd($request);
+       $credentials = $request->validate([
+        'email' => ['required', 'email'],
+        'mdp' => ['required'],
+    ]);
+       
+        if (Auth::attempt(['email' => $credentials['email'], 'mot_de_passe' => $credentials['mdp'] ])) {
             // Authentification réussie
             return redirect()->intended('/');
         }
