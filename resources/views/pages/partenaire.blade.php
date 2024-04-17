@@ -85,13 +85,13 @@
 
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
                 <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
-                    src="assets/img/partenaires/" alt="" />
+                    src="assets/img/partenaires/idef.png" alt="" />
                   <div class="social-icons"><a href="#!"> <span class="uil uil-facebook" hidden></span></a><a href="#!">
                       <span class="uil uil-instagram-alt" hidden></span></a><a href="#!">
                       <span class="uil uil-linkedin" hidden></span></a></div>
                 </div>
-                <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">DEVRS</h3>
-                <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">economie verte</h5>
+                <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">IDEF</h3>
+                <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">initiatives pour le développement communautaire et la conservation de la forêt </h5>
               </article>
 
               <article class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">

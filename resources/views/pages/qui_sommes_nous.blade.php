@@ -147,9 +147,9 @@ Qui sommes nous?
           <div class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
             <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
                 src="assets/img/team/team/6.png" alt="" />
-              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
-                  <span class="uil uil-instagram-alt"></span></a><a href="#!"> <span
-                    class="uil uil-linkedin"></span></a></div>
+              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook" hidden></span></a><a href="#!">
+                  <span class="uil uil-instagram-alt" hidden></span></a><a href="#!"> <span
+                    class="uil uil-linkedin" hidden></span></a></div>
             </div>
             <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">James T. Kirk</h3>
             <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">CFO</h5>
@@ -159,9 +159,9 @@ Qui sommes nous?
           <div class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
             <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
                 src="assets/img/team/team/5.png" alt="" />
-              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
-                  <span class="uil uil-instagram-alt"></span></a><a href="#!"> <span
-                    class="uil uil-linkedin"></span></a></div>
+              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook" hidden></span></a><a href="#!">
+                  <span class="uil uil-instagram-alt" hidden></span></a><a href="#!"> <span
+                    class="uil uil-linkedin" hidden></span></a></div>
             </div>
             <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">Montgomery Scott</h3>
             <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">Accounts</h5>
@@ -171,9 +171,9 @@ Qui sommes nous?
           <div class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
             <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
                 src="assets/img/team/team/4.png" alt="" />
-              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
-                  <span class="uil uil-instagram-alt"></span></a><a href="#!"> <span
-                    class="uil uil-linkedin"></span></a></div>
+              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook" hidden></span></a><a href="#!">
+                  <span class="uil uil-instagram-alt" hidden></span></a><a href="#!"> <span
+                    class="uil uil-linkedin" hidden></span></a></div>
             </div>
             <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">Nyota Uhura</h3>
             <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">Marketing</h5>
@@ -183,9 +183,9 @@ Qui sommes nous?
           <div class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
             <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
                 src="assets/img/team/team/3.png" alt="" />
-              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
-                  <span class="uil uil-instagram-alt"></span></a><a href="#!"> <span
-                    class="uil uil-linkedin"></span></a></div>
+              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook" hidden></span></a><a href="#!">
+                  <span class="uil uil-instagram-alt" hidden></span></a><a href="#!"> <span
+                    class="uil uil-linkedin" hidden></span></a></div>
             </div>
             <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">Hikaru Sulu</h3>
             <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">CFO</h5>
@@ -195,9 +195,9 @@ Qui sommes nous?
           <div class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
             <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
                 src="assets/img/team/team/2.png" alt="" />
-              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
-                  <span class="uil uil-instagram-alt"></span></a><a href="#!">
-                  <span class="uil uil-linkedin"></span></a></div>
+              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook" hidden></span></a><a href="#!">
+                  <span class="uil uil-instagram-alt" hidden></span></a><a href="#!">
+                  <span class="uil uil-linkedin" hidden></span></a></div>
             </div>
             <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">Pavel Chekov</h3>
             <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">CTO</h5>
@@ -207,9 +207,9 @@ Qui sommes nous?
           <div class="col-12 col-md-6 col-lg-4 px-3 text-center mb-5 mb-lg-0">
             <div class="position-relative w-75 w-md-100 mx-auto mb-2"><img class="w-100 team-hero-image"
                 src="assets/img/team/team/1.png" alt="" />
-              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook"></span></a><a href="#!">
-                  <span class="uil uil-instagram-alt"></span></a><a href="#!">
-                  <span class="uil uil-linkedin"></span></a></div>
+              <div class="social-icons"><a href="#!"> <span class="uil uil-facebook" hidden></span></a><a href="#!">
+                  <span class="uil uil-instagram-alt" hidden></span></a><a href="#!">
+                  <span class="uil uil-linkedin" hidden></span></a></div>
             </div>
             <h3 class="fs-9 fs-md-8 text-success fw-bold mb-1">Leonard McCoy</h3>
             <h5 class="text-black fs-10 fs-md-9 fw-medium text-capitalize mb-3">Human
