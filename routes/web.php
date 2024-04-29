@@ -52,6 +52,9 @@ Route::get('publication', [ApfnpController::class, 'publication'])->name('public
 //PAGE TEXTE DE LOI  "ACCORDS INTERNATIONAUX RATIFIÉS"
 Route::get('texte-de-loi-accords-internationaux-ratifies', [ApfnpController::class, 'accordsInternationauxRatifies'])->name('texte-de-loi-accords-internationaux-ratifies');
 
+//PAGE TEXTE DE LOI  "ACCORDS INTERNATIONAUX"
+Route::get('texte-de-loi-accords-internationaux', [ApfnpController::class, 'accordsInternationaux'])->name('texte-de-loi-accords-internationaux');
+
 //PAGE TEXTE DE LOI  "LOIS"
 Route::get('texte-de-loi-lois', [ApfnpController::class, 'lois'])->name('lois');
 
