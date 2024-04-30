@@ -14,18 +14,15 @@ Accords internationaux ratifiés
             </h1>
             <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3">
                 <div class="col-12 col-lg">
-                    <a href="{{ asset('/assets/docs/lois/APV FLEGT CI-UE SIGNE LE 19 FEVRIER 2024.pdf') }}" download="NomDuFichierQueTuVeuxAfficherSurLeSite.pdf">
-                       <span>NomDuFichierQueTuVeuxAfficherSurLeSite</span>
-                      <button class="btn btn-gradient fs-8 mt-1 d-inline-flex"><span>Télécharger</span></button>
-                    </a>
+                    
                 </div>
             </article>
             <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3">
                 <div class="col-12 col-lg">
-                    ---------
+                    
                 </div>
                 <div class="col-12 col-lg">
-                    ---------
+                    
                 </div>
             </article>
         </section>

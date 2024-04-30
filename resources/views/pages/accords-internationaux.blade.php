@@ -23,13 +23,10 @@ Accords internationaux
             </article>
             <article class="row mb-7 mb-lg-8 mb-xl-9 gap-3">
                 <div class="col-12 col-lg">
-                    <a href="{{ asset('/assets/docs/') }}" download="">
-                        <span></span>
-                       <button class="btn btn-gradient fs-8 mt-1 d-inline-flex"><span>Télécharger</span></button>
-                     </a>
+                    
                 </div>
                 <div class="col-12 col-lg">
-                    ---------
+                   
                 </div>
             </article>
         </section>

@@ -23,7 +23,7 @@
         margin-bottom: 20px;
     }
 </style>
-<div class="bg-white p-1 p-lg-2">
+{{-- <div class="bg-white p-1 p-lg-2">
     <div class="container">
         <div class="d-flex justify-content-end align-items-center">
             <a class="ms-2 ms-md-3 submenu" href="#!">
@@ -32,4 +32,4 @@
             </a>
         </div>
     </div>
-</div>
+</div> --}}
